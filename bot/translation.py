@@ -6,18 +6,16 @@ class Translation(object):
     
     START_TEXT = """<b>🙋‍♂️Hey {}!!</b>
 
-<b>Am Just A Pro Auto Filter Bot....😉</b>
+<b>🔰😈സുഖമാണോ മക്കളെ😈🔰</b>
 
-<b>Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝</b>
+<b>⚡😈എന്നെ നിങ്ങടെ ഗ്രൂപ്പിൽ ചേർക്കാൻ നോക്കണ്ട അത് നടക്കില്ല😈⚡</b>
 
-<b>Watch the video below to build an Pro Autofilter bot like me...</b>
+<b>എന്നെ CMW നു വേണ്ടി മാത്രം ഉണ്ടാക്കിയതാണ് പതുക്കെ സ്തലം വിട്ടോ</b>
 
-<b>Subscribe to the update channel to learn about my updates and activity...</b>
-
-<b>Press /help to know about available commands🤪</b>"""    
+<b>അപോ OKK ബൈ 😂</b>"""    
     
     HELP_TEXT = """
-<b>😉How To Use Me!😉?</b>
+<b>OK BYE</b>
 
 <i>
 -> Add Me To Any Group And Make Me Admin
